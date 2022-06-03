@@ -8,18 +8,28 @@
     display: flex;
     justify-content: space-evenly;
     width: 100%;
-    height: 10%;
+    height: 40%;
     margin-top: -2.5rem;
     padding-left: 50rem;
     font-family: 'Montserrat';
     font-size: 30px;
     color: darkgrey;
 }
+.menu{
+    margin-left: 70px;
+}
+.portifolio{
+    color: black;
+}
 .baneer{
     width: 100%;
-    height: 5%;
+    height: 100%;
     margin-top: 1rem;
     margin-left: 0rem;
+}
+.laranja{
+    width: 100%;
+    height: 40%;
 }
 .tema{
     margin-top: -22rem;
@@ -41,10 +51,10 @@
 .caixa-1{
     display: flex;
     justify-content: space-evenly;
-    margin-top: 1rem;
+    margin-top: 18rem;
 }
 .imagem1{
-    width: 18rem;
+    width: 20rem;
     height: 18rem;
 }
 .caixa-2{
@@ -53,7 +63,7 @@
     margin-top: 1rem;
 }
 .imagem2{
-    width: 18rem;
+    width: 20rem;
     height: 18rem;
 }
 .caixa-3{
@@ -62,10 +72,12 @@
     margin-top: 1rem;
 }
 .imagem3{
-    width: 18rem;
+    width: 20rem;
     height: 18rem;
 }
 .rodape{
+    width: 1800px;
+    height: 123px;
     display: flex;
     justify-content: space-evenly;
     padding-top: 3rem;
@@ -74,15 +86,19 @@
 .caixa-rodape{
     display: flex;
     justify-content: space-evenly;
-    padding-top: 3rem;
+    padding-top: 2rem;
     padding-left: 0.7rem;
 }
 .imagem4{
-    width: 2rem;
+    width: 4rem;
     height: 2rem;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0;
 }
 .copy {
     margin-top: 0.3rem;
+    margin-right: 50px;
     font-weight: bold;
     font-family: 'Montserrat';
     font-size: 20px;
